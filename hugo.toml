@@ -24,8 +24,8 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = ""
-  favicon = ""
-  site_logo = ""
+  favicon = "images/blue-greek-cross.svg"
+  site_logo = "images/blue-greek-cross.svg"
   description = "A movement of the Protestant Reconquista for Congregationalist and Uniting churches"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-blue"
