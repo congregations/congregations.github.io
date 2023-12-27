@@ -3,3 +3,6 @@ backend:
   branch: master
 
 publish_mode: editorial_workflow
+
+media_folder: "static/up"
+public_folder: "/up"
