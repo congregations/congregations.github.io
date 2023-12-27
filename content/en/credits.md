@@ -1,5 +1,5 @@
 ---
-title: Allies
+title: Site Credits
 featured_image: 'images/ally-in-high-church.jpg'
 description: Seek and you may find
 type: page
