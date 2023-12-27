@@ -6,10 +6,25 @@ type: page
 menu: main
 
 ---
-- Website organzation: [Hugo](https://gohugo.io/), a static site generator
-- Theme: [Ananke](https://themes.gohugo.io/themes/gohugo-theme-ananke/), by theNewDynamic
+Most of the action happens on in a largely decentralized community on the Discord chat app. If you attend a historic Congregationalist church you can participate in our branch of the movement. There are related movements branching off from the Reconquista for other Protestant denominations or traditions, each centered around one or more mainline denominations.
 
-## Images
-- Homepage hero image – Lightstock
-- Homepage bottom image – Lightstock
-- Allies page hero image - Lightstock
+Here are the websites for the other groups:
+
+## Anglicans
+- [The Episcopal Fellowship for Renewal](https://www.episcopalrenewal.org/)
+
+## Baptists
+- American Baptists for Christ
+
+## Lutherans
+- [SOLA](https://www.solaelca.org/) - Society Of Lutheran Advocates *(ELCA)*
+- [Crossbearer](https://crossbearers.eu/en/) - European Lutherans
+
+## Methodists
+- [Young Methodists for Tradition](https://jade-erinn-75.tiiny.site/)
+
+## Presbyterians
+- [Presbyterians for the Kingdom](https://www.presbyforthekingdom.org/)
+
+## Reformed
+- Reformed Revivalists
