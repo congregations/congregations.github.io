@@ -18,6 +18,6 @@ This webpage represents participants in the [Protestant Reconquista](https://www
 
 Inspired by Martin Luther, members of the Protestant Reconquista wrote 95 Theses and sent them to each of the major U.S. mainline denominations on Reformation Day, 2023.
 
-On Reformation Day, 2023, inspired by Martin Luther, church members of every mainline Protestant denomination who participate in the Reconquista posted 95 Theses addressed to their churches. 
-
 The 95 Theses to the United Church of Christ may be [downloaded](ucc-theses-2023.pdf) here.
+
+![Exterior of a Congregationalist church](images/church-exterior.jpg)
